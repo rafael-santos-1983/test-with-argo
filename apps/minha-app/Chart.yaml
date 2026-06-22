@@ -1,0 +1,4 @@
+apiVersion: v2
+name: minha-app
+description: Test app for ArgoCD
+version: 0.1.0
